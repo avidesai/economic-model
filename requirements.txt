@@ -2,6 +2,5 @@ pandas
 numpy
 fredapi
 matplotlib
-statemodels
 datetime
 streamlit
